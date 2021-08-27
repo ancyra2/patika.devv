@@ -1,0 +1,33 @@
+.nav-head{
+  background-color:#a316db;
+
+}
+.nav-head a{
+  color: white;
+}
+.nav-head a:hover{
+  color: rgb(220, 220, 220);
+}
+
+.music-comp{
+  height: 425px;
+  margin-top: 15px;
+}
+.music-comp img{
+  width: 100%;
+  height: 60%;
+}
+.music-comp h5{
+  color:#a316db;
+}
+.music-comp a{
+  background-color: #566061;
+  border:none;
+  width: 60px;
+  height: 30px;
+  font-size: 14px;
+}
+.music-comp a:hover{
+  background-color: #566061;
+  border:none;
+}
