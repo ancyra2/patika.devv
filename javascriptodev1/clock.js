@@ -40,3 +40,11 @@ function showTime() {
 
 askName();
 showTime();
+
+let boolean;
+
+      const isBooleanTrue = boolean ? true : false;
+
+      console.log(isBooleanTrue)
+
+      console.log(boolean)
